@@ -33,6 +33,7 @@ Using the Application:
 1. Once the server is running, visit http://127.0.0.1:8000/docs for the interactive API documentation.
 2. Here, you can see all the endpoints available and test them out directly.
 3. To use the API programmatically, refer to the provided Python script that demonstrates interacting with the APIs or use tools like 'curl' or Postman.
+4. Modify input data and run APIs from 'Client.py' to create/update/delete places or photos.
 
 Endpoints:
 ----------
